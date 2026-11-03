@@ -1,0 +1,12 @@
+field,value
+name,"Council E home care framework, lot 3 (illustrative)"
+ceiling_rate,32.2
+hours_per_week,850
+share_15,0.05
+share_30,0.4
+share_45,0.25
+share_60,0.3
+rural_share,0.4
+new_staff_needed,30
+recruitment_capacity,24
+contract_years,3

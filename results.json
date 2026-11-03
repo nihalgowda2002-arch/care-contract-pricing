@@ -1,0 +1,122 @@
+{
+  "package_2026_27": {
+    "direct": 23.80158833169149,
+    "cost": 28.245878931494474,
+    "price": 29.732504138415237
+  },
+  "price_per_hour_15_vs_60_min": [
+    41.03711367248146,
+    26.707326939158076
+  ],
+  "bury_2026_27": {
+    "standard_rate": 24.3,
+    "enhanced_rate": 28.53,
+    "left_after_direct_cost": 0.4984116683085098,
+    "share_of_overheads_covered": 0.11214650732573711,
+    "margin_at_enhanced_rate": 0.009958677480039535,
+    "rate_growth_since_2021_22": 0.47272727272727266,
+    "nlw_growth_since_2021_22": 0.4264870931537599
+  },
+  "portfolio": {
+    "margin_now": 0.042256573783774544,
+    "uplift_to_hold": 0.056406469792900316,
+    "margin_at_offer": 0.023285768718111943,
+    "gap_per_year": 248519.05124304447
+  },
+  "by_commissioner_type": {
+    "Local authority": {
+      "margin": -0.0046409574239665375,
+      "share_of_revenue": 0.7460997037316116
+    },
+    "NHS continuing healthcare": {
+      "margin": 0.14155695499213655,
+      "share_of_revenue": 0.137713424554313
+    },
+    "Self-funded": {
+      "margin": 0.2257130888756181,
+      "share_of_revenue": 0.1161868717140753
+    }
+  },
+  "care_homes": {
+    "Home 1": {
+      "margin": 0.0824131952971493,
+      "breakeven_occupancy": 0.8019707258476645,
+      "residents_short": 0.0,
+      "annual_profit": 136958.37063480017
+    },
+    "Home 2": {
+      "margin": 0.028753443832626124,
+      "breakeven_occupancy": 0.8236697384399975,
+      "residents_short": 0.0,
+      "annual_profit": 64393.86198299979
+    },
+    "Home 3": {
+      "margin": 0.07772634657681804,
+      "breakeven_occupancy": 0.8228207318642996,
+      "residents_short": 0.0,
+      "annual_profit": 244500.1270271999
+    },
+    "Home 4": {
+      "margin": -0.03659116966602627,
+      "breakeven_occupancy": 0.8656455197335698,
+      "residents_short": 2.190984947211355,
+      "annual_profit": -75606.96263999966
+    },
+    "Home 5": {
+      "margin": 0.18840583537855057,
+      "breakeven_occupancy": 0.7076820299717492,
+      "residents_short": 0.0,
+      "annual_profit": 321359.38401599985
+    }
+  },
+  "tender": {
+    "urban_cost": 28.245878931494474,
+    "rural_cost": 35.07355957537184,
+    "cost_per_hour": 30.97695118904542,
+    "our_price": 32.607317041100444,
+    "margin_at_ceiling": 0.03798288232778213,
+    "walk_away_rate": 31.609133866372876,
+    "max_rural_share_for_target": 0.34332611479237635,
+    "annual_revenue": 1427071.8,
+    "annual_contribution": 54204.3002526962,
+    "contract_contribution": 162612.9007580886,
+    "recruitment_ok": false,
+    "decision": "Bid with conditions"
+  },
+  "tornado": [
+    {
+      "driver": "Travel time per visit +/-25%",
+      "swing": 2.718868844656164
+    },
+    {
+      "driver": "Care worker pay +/-5%",
+      "swing": 2.647059012991722
+    },
+    {
+      "driver": "Branch and central staff 9% to 15%",
+      "swing": 1.3614161051594635
+    },
+    {
+      "driver": "Target margin 3% to 7%",
+      "swing": 1.2524500135902663
+    },
+    {
+      "driver": "Miles per visit +/-25%",
+      "swing": 1.1820175438596472
+    },
+    {
+      "driver": "Non-pay overheads +/-25%",
+      "swing": 0.9776842105263128
+    },
+    {
+      "driver": "Training and supervision time 3% to 7%",
+      "swing": 0.9681181192245063
+    }
+  ],
+  "suppliers": {
+    "total_spend": 1360443.81,
+    "like_for_like_saving": 12270.050000000003,
+    "agency_saving": 56592.026318935394,
+    "agency_avg_rate": 26.223726003957005
+  }
+}

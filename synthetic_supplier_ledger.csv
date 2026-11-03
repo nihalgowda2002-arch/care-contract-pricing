@@ -1,0 +1,265 @@
+month,category,supplier,item,units,unit_price,amount
+2026-04,Agency staffing,Agency 1,Agency care worker hour,778.0,24.5,19061.0
+2026-05,Agency staffing,Agency 1,Agency care worker hour,859.0,24.5,21045.5
+2026-06,Agency staffing,Agency 1,Agency care worker hour,823.0,24.5,20163.5
+2026-07,Agency staffing,Agency 1,Agency care worker hour,659.0,24.5,16145.5
+2026-08,Agency staffing,Agency 1,Agency care worker hour,682.0,24.5,16709.0
+2026-09,Agency staffing,Agency 1,Agency care worker hour,852.0,24.5,20874.0
+2026-10,Agency staffing,Agency 1,Agency care worker hour,594.0,24.5,14553.0
+2026-11,Agency staffing,Agency 1,Agency care worker hour,836.0,24.5,20482.0
+2026-12,Agency staffing,Agency 1,Agency care worker hour,829.0,24.5,20310.5
+2027-01,Agency staffing,Agency 1,Agency care worker hour,731.0,24.5,17909.5
+2027-02,Agency staffing,Agency 1,Agency care worker hour,682.0,24.5,16709.0
+2027-03,Agency staffing,Agency 1,Agency care worker hour,675.0,24.5,16537.5
+2026-04,Agency staffing,Agency 2,Agency care worker hour,485.0,26.8,12998.0
+2026-05,Agency staffing,Agency 2,Agency care worker hour,526.0,26.8,14096.8
+2026-06,Agency staffing,Agency 2,Agency care worker hour,539.0,26.8,14445.2
+2026-07,Agency staffing,Agency 2,Agency care worker hour,550.0,26.8,14740.0
+2026-08,Agency staffing,Agency 2,Agency care worker hour,645.0,26.8,17286.0
+2026-09,Agency staffing,Agency 2,Agency care worker hour,601.0,26.8,16106.8
+2026-10,Agency staffing,Agency 2,Agency care worker hour,565.0,26.8,15142.0
+2026-11,Agency staffing,Agency 2,Agency care worker hour,644.0,26.8,17259.2
+2026-12,Agency staffing,Agency 2,Agency care worker hour,477.0,26.8,12783.6
+2027-01,Agency staffing,Agency 2,Agency care worker hour,465.0,26.8,12462.0
+2027-02,Agency staffing,Agency 2,Agency care worker hour,563.0,26.8,15088.4
+2027-03,Agency staffing,Agency 2,Agency care worker hour,440.0,26.8,11792.0
+2026-04,Agency staffing,Agency 3,Agency care worker hour,225.0,29.9,6727.5
+2026-05,Agency staffing,Agency 3,Agency care worker hour,278.0,29.9,8312.2
+2026-06,Agency staffing,Agency 3,Agency care worker hour,273.0,29.9,8162.7
+2026-07,Agency staffing,Agency 3,Agency care worker hour,323.0,29.9,9657.7
+2026-08,Agency staffing,Agency 3,Agency care worker hour,291.0,29.9,8700.9
+2026-09,Agency staffing,Agency 3,Agency care worker hour,278.0,29.9,8312.2
+2026-10,Agency staffing,Agency 3,Agency care worker hour,276.0,29.9,8252.4
+2026-11,Agency staffing,Agency 3,Agency care worker hour,249.0,29.9,7445.1
+2026-12,Agency staffing,Agency 3,Agency care worker hour,223.0,29.9,6667.7
+2027-01,Agency staffing,Agency 3,Agency care worker hour,243.0,29.9,7265.7
+2027-02,Agency staffing,Agency 3,Agency care worker hour,298.0,29.9,8910.2
+2027-03,Agency staffing,Agency 3,Agency care worker hour,244.0,29.9,7295.6
+2026-04,PPE,Supplier P1,"Nitrile gloves, box of 100",476.0,4.1,1951.6
+2026-05,PPE,Supplier P1,"Nitrile gloves, box of 100",402.0,4.1,1648.2
+2026-06,PPE,Supplier P1,"Nitrile gloves, box of 100",568.0,4.1,2328.8
+2026-07,PPE,Supplier P1,"Nitrile gloves, box of 100",433.0,4.1,1775.3
+2026-08,PPE,Supplier P1,"Nitrile gloves, box of 100",455.0,4.1,1865.5
+2026-09,PPE,Supplier P1,"Nitrile gloves, box of 100",578.0,4.1,2369.8
+2026-10,PPE,Supplier P1,"Nitrile gloves, box of 100",504.0,4.1,2066.4
+2026-11,PPE,Supplier P1,"Nitrile gloves, box of 100",572.0,4.1,2345.2
+2026-12,PPE,Supplier P1,"Nitrile gloves, box of 100",530.0,4.1,2173.0
+2027-01,PPE,Supplier P1,"Nitrile gloves, box of 100",551.0,4.1,2259.1
+2027-02,PPE,Supplier P1,"Nitrile gloves, box of 100",420.0,4.1,1722.0
+2027-03,PPE,Supplier P1,"Nitrile gloves, box of 100",510.0,4.1,2091.0
+2026-04,PPE,Supplier P2,"Nitrile gloves, box of 100",292.0,4.95,1445.4
+2026-05,PPE,Supplier P2,"Nitrile gloves, box of 100",335.0,4.95,1658.25
+2026-06,PPE,Supplier P2,"Nitrile gloves, box of 100",275.0,4.95,1361.25
+2026-07,PPE,Supplier P2,"Nitrile gloves, box of 100",303.0,4.95,1499.85
+2026-08,PPE,Supplier P2,"Nitrile gloves, box of 100",240.0,4.95,1188.0
+2026-09,PPE,Supplier P2,"Nitrile gloves, box of 100",278.0,4.95,1376.1
+2026-10,PPE,Supplier P2,"Nitrile gloves, box of 100",271.0,4.95,1341.45
+2026-11,PPE,Supplier P2,"Nitrile gloves, box of 100",251.0,4.95,1242.45
+2026-12,PPE,Supplier P2,"Nitrile gloves, box of 100",328.0,4.95,1623.6
+2027-01,PPE,Supplier P2,"Nitrile gloves, box of 100",277.0,4.95,1371.15
+2027-02,PPE,Supplier P2,"Nitrile gloves, box of 100",347.0,4.95,1717.65
+2027-03,PPE,Supplier P2,"Nitrile gloves, box of 100",302.0,4.95,1494.9
+2026-04,PPE,Supplier P3,"Nitrile gloves, box of 100",106.0,5.6,593.6
+2026-05,PPE,Supplier P3,"Nitrile gloves, box of 100",108.0,5.6,604.8
+2026-06,PPE,Supplier P3,"Nitrile gloves, box of 100",109.0,5.6,610.4
+2026-07,PPE,Supplier P3,"Nitrile gloves, box of 100",88.0,5.6,492.8
+2026-08,PPE,Supplier P3,"Nitrile gloves, box of 100",100.0,5.6,560.0
+2026-09,PPE,Supplier P3,"Nitrile gloves, box of 100",91.0,5.6,509.6
+2026-10,PPE,Supplier P3,"Nitrile gloves, box of 100",98.0,5.6,548.8
+2026-11,PPE,Supplier P3,"Nitrile gloves, box of 100",86.0,5.6,481.6
+2026-12,PPE,Supplier P3,"Nitrile gloves, box of 100",121.0,5.6,677.6
+2027-01,PPE,Supplier P3,"Nitrile gloves, box of 100",90.0,5.6,504.0
+2027-02,PPE,Supplier P3,"Nitrile gloves, box of 100",109.0,5.6,610.4
+2027-03,PPE,Supplier P3,"Nitrile gloves, box of 100",94.0,5.6,526.4
+2026-04,PPE,Supplier P1,"Disposable aprons, roll of 200",139.0,6.8,945.2
+2026-05,PPE,Supplier P1,"Disposable aprons, roll of 200",129.0,6.8,877.2
+2026-06,PPE,Supplier P1,"Disposable aprons, roll of 200",103.0,6.8,700.4
+2026-07,PPE,Supplier P1,"Disposable aprons, roll of 200",138.0,6.8,938.4
+2026-08,PPE,Supplier P1,"Disposable aprons, roll of 200",143.0,6.8,972.4
+2026-09,PPE,Supplier P1,"Disposable aprons, roll of 200",141.0,6.8,958.8
+2026-10,PPE,Supplier P1,"Disposable aprons, roll of 200",125.0,6.8,850.0
+2026-11,PPE,Supplier P1,"Disposable aprons, roll of 200",104.0,6.8,707.2
+2026-12,PPE,Supplier P1,"Disposable aprons, roll of 200",106.0,6.8,720.8
+2027-01,PPE,Supplier P1,"Disposable aprons, roll of 200",142.0,6.8,965.6
+2027-02,PPE,Supplier P1,"Disposable aprons, roll of 200",124.0,6.8,843.2
+2027-03,PPE,Supplier P1,"Disposable aprons, roll of 200",106.0,6.8,720.8
+2026-04,PPE,Supplier P2,"Disposable aprons, roll of 200",86.0,8.2,705.2
+2026-05,PPE,Supplier P2,"Disposable aprons, roll of 200",79.0,8.2,647.8
+2026-06,PPE,Supplier P2,"Disposable aprons, roll of 200",77.0,8.2,631.4
+2026-07,PPE,Supplier P2,"Disposable aprons, roll of 200",71.0,8.2,582.2
+2026-08,PPE,Supplier P2,"Disposable aprons, roll of 200",72.0,8.2,590.4
+2026-09,PPE,Supplier P2,"Disposable aprons, roll of 200",67.0,8.2,549.4
+2026-10,PPE,Supplier P2,"Disposable aprons, roll of 200",61.0,8.2,500.2
+2026-11,PPE,Supplier P2,"Disposable aprons, roll of 200",86.0,8.2,705.2
+2026-12,PPE,Supplier P2,"Disposable aprons, roll of 200",74.0,8.2,606.8
+2027-01,PPE,Supplier P2,"Disposable aprons, roll of 200",76.0,8.2,623.2
+2027-02,PPE,Supplier P2,"Disposable aprons, roll of 200",69.0,8.2,565.8
+2027-03,PPE,Supplier P2,"Disposable aprons, roll of 200",82.0,8.2,672.4
+2026-04,Continence products,Supplier C1,"Continence pads, pack of 28",287.0,9.3,2669.1
+2026-05,Continence products,Supplier C1,"Continence pads, pack of 28",336.0,9.3,3124.8
+2026-06,Continence products,Supplier C1,"Continence pads, pack of 28",288.0,9.3,2678.4
+2026-07,Continence products,Supplier C1,"Continence pads, pack of 28",301.0,9.3,2799.3
+2026-08,Continence products,Supplier C1,"Continence pads, pack of 28",421.0,9.3,3915.3
+2026-09,Continence products,Supplier C1,"Continence pads, pack of 28",377.0,9.3,3506.1
+2026-10,Continence products,Supplier C1,"Continence pads, pack of 28",344.0,9.3,3199.2
+2026-11,Continence products,Supplier C1,"Continence pads, pack of 28",358.0,9.3,3329.4
+2026-12,Continence products,Supplier C1,"Continence pads, pack of 28",407.0,9.3,3785.1
+2027-01,Continence products,Supplier C1,"Continence pads, pack of 28",332.0,9.3,3087.6
+2027-02,Continence products,Supplier C1,"Continence pads, pack of 28",367.0,9.3,3413.1
+2027-03,Continence products,Supplier C1,"Continence pads, pack of 28",381.0,9.3,3543.3
+2026-04,Continence products,Supplier C2,"Continence pads, pack of 28",200.0,10.8,2160.0
+2026-05,Continence products,Supplier C2,"Continence pads, pack of 28",214.0,10.8,2311.2
+2026-06,Continence products,Supplier C2,"Continence pads, pack of 28",235.0,10.8,2538.0
+2026-07,Continence products,Supplier C2,"Continence pads, pack of 28",247.0,10.8,2667.6
+2026-08,Continence products,Supplier C2,"Continence pads, pack of 28",183.0,10.8,1976.4
+2026-09,Continence products,Supplier C2,"Continence pads, pack of 28",249.0,10.8,2689.2
+2026-10,Continence products,Supplier C2,"Continence pads, pack of 28",171.0,10.8,1846.8
+2026-11,Continence products,Supplier C2,"Continence pads, pack of 28",234.0,10.8,2527.2
+2026-12,Continence products,Supplier C2,"Continence pads, pack of 28",239.0,10.8,2581.2
+2027-01,Continence products,Supplier C2,"Continence pads, pack of 28",182.0,10.8,1965.6
+2027-02,Continence products,Supplier C2,"Continence pads, pack of 28",206.0,10.8,2224.8
+2027-03,Continence products,Supplier C2,"Continence pads, pack of 28",239.0,10.8,2581.2
+2026-04,Continence products,Supplier C3,"Continence pads, pack of 28",61.0,11.9,725.9
+2026-05,Continence products,Supplier C3,"Continence pads, pack of 28",80.0,11.9,952.0
+2026-06,Continence products,Supplier C3,"Continence pads, pack of 28",85.0,11.9,1011.5
+2026-07,Continence products,Supplier C3,"Continence pads, pack of 28",77.0,11.9,916.3
+2026-08,Continence products,Supplier C3,"Continence pads, pack of 28",83.0,11.9,987.7
+2026-09,Continence products,Supplier C3,"Continence pads, pack of 28",68.0,11.9,809.2
+2026-10,Continence products,Supplier C3,"Continence pads, pack of 28",67.0,11.9,797.3
+2026-11,Continence products,Supplier C3,"Continence pads, pack of 28",72.0,11.9,856.8
+2026-12,Continence products,Supplier C3,"Continence pads, pack of 28",66.0,11.9,785.4
+2027-01,Continence products,Supplier C3,"Continence pads, pack of 28",72.0,11.9,856.8
+2027-02,Continence products,Supplier C3,"Continence pads, pack of 28",90.0,11.9,1071.0
+2027-03,Continence products,Supplier C3,"Continence pads, pack of 28",78.0,11.9,928.2
+2026-04,Food,Supplier F1,,,,13350.63
+2026-05,Food,Supplier F1,,,,12959.57
+2026-06,Food,Supplier F1,,,,16842.07
+2026-07,Food,Supplier F1,,,,13946.31
+2026-08,Food,Supplier F1,,,,17003.84
+2026-09,Food,Supplier F1,,,,14351.64
+2026-10,Food,Supplier F1,,,,14383.84
+2026-11,Food,Supplier F1,,,,16525.43
+2026-12,Food,Supplier F1,,,,15648.12
+2027-01,Food,Supplier F1,,,,14723.22
+2027-02,Food,Supplier F1,,,,13844.6
+2027-03,Food,Supplier F1,,,,16420.73
+2026-04,Food,Supplier F2,,,,7306.77
+2026-05,Food,Supplier F2,,,,8855.34
+2026-06,Food,Supplier F2,,,,6267.76
+2026-07,Food,Supplier F2,,,,7362.37
+2026-08,Food,Supplier F2,,,,7633.59
+2026-09,Food,Supplier F2,,,,8940.71
+2026-10,Food,Supplier F2,,,,6820.05
+2026-11,Food,Supplier F2,,,,8501.7
+2026-12,Food,Supplier F2,,,,8109.14
+2027-01,Food,Supplier F2,,,,8232.19
+2027-02,Food,Supplier F2,,,,7967.19
+2027-03,Food,Supplier F2,,,,9003.19
+2026-04,Utilities,Supplier U1,,,,11107.08
+2026-05,Utilities,Supplier U1,,,,11419.41
+2026-06,Utilities,Supplier U1,,,,10489.18
+2026-07,Utilities,Supplier U1,,,,9764.44
+2026-08,Utilities,Supplier U1,,,,10536.78
+2026-09,Utilities,Supplier U1,,,,13882.0
+2026-10,Utilities,Supplier U1,,,,13523.48
+2026-11,Utilities,Supplier U1,,,,10058.23
+2026-12,Utilities,Supplier U1,,,,12397.91
+2027-01,Utilities,Supplier U1,,,,11804.71
+2027-02,Utilities,Supplier U1,,,,12354.61
+2027-03,Utilities,Supplier U1,,,,12662.16
+2026-04,Maintenance,Supplier M1,,,,3451.14
+2026-05,Maintenance,Supplier M1,,,,4430.67
+2026-06,Maintenance,Supplier M1,,,,3689.3
+2026-07,Maintenance,Supplier M1,,,,3932.07
+2026-08,Maintenance,Supplier M1,,,,3942.73
+2026-09,Maintenance,Supplier M1,,,,3267.46
+2026-10,Maintenance,Supplier M1,,,,3084.89
+2026-11,Maintenance,Supplier M1,,,,3608.03
+2026-12,Maintenance,Supplier M1,,,,4135.45
+2027-01,Maintenance,Supplier M1,,,,4212.04
+2027-02,Maintenance,Supplier M1,,,,4084.51
+2027-03,Maintenance,Supplier M1,,,,3161.7
+2026-04,Maintenance,Supplier M2,,,,3767.47
+2026-05,Maintenance,Supplier M2,,,,3623.52
+2026-06,Maintenance,Supplier M2,,,,3721.35
+2026-07,Maintenance,Supplier M2,,,,3263.07
+2026-08,Maintenance,Supplier M2,,,,3770.42
+2026-09,Maintenance,Supplier M2,,,,2646.68
+2026-10,Maintenance,Supplier M2,,,,2625.52
+2026-11,Maintenance,Supplier M2,,,,2612.49
+2026-12,Maintenance,Supplier M2,,,,2913.22
+2027-01,Maintenance,Supplier M2,,,,2907.79
+2027-02,Maintenance,Supplier M2,,,,2828.82
+2027-03,Maintenance,Supplier M2,,,,3319.65
+2026-04,Maintenance,Supplier M3,,,,1517.86
+2026-05,Maintenance,Supplier M3,,,,1928.33
+2026-06,Maintenance,Supplier M3,,,,1612.42
+2026-07,Maintenance,Supplier M3,,,,1993.46
+2026-08,Maintenance,Supplier M3,,,,1504.53
+2026-09,Maintenance,Supplier M3,,,,1720.03
+2026-10,Maintenance,Supplier M3,,,,2187.36
+2026-11,Maintenance,Supplier M3,,,,1889.63
+2026-12,Maintenance,Supplier M3,,,,2093.0
+2027-01,Maintenance,Supplier M3,,,,1978.68
+2027-02,Maintenance,Supplier M3,,,,1943.49
+2027-03,Maintenance,Supplier M3,,,,1631.21
+2026-04,Insurance,Supplier I1,,,,7346.1
+2026-05,Insurance,Supplier I1,,,,5820.3
+2026-06,Insurance,Supplier I1,,,,7994.62
+2026-07,Insurance,Supplier I1,,,,8446.64
+2026-08,Insurance,Supplier I1,,,,8143.99
+2026-09,Insurance,Supplier I1,,,,5851.75
+2026-10,Insurance,Supplier I1,,,,6673.43
+2026-11,Insurance,Supplier I1,,,,6614.48
+2026-12,Insurance,Supplier I1,,,,6028.69
+2027-01,Insurance,Supplier I1,,,,7495.11
+2027-02,Insurance,Supplier I1,,,,7982.62
+2027-03,Insurance,Supplier I1,,,,6602.26
+2026-04,IT and call monitoring,Supplier T1,,,,5568.41
+2026-05,IT and call monitoring,Supplier T1,,,,5440.65
+2026-06,IT and call monitoring,Supplier T1,,,,4141.36
+2026-07,IT and call monitoring,Supplier T1,,,,5381.78
+2026-08,IT and call monitoring,Supplier T1,,,,5606.95
+2026-09,IT and call monitoring,Supplier T1,,,,4273.91
+2026-10,IT and call monitoring,Supplier T1,,,,5005.96
+2026-11,IT and call monitoring,Supplier T1,,,,5132.6
+2026-12,IT and call monitoring,Supplier T1,,,,5075.38
+2027-01,IT and call monitoring,Supplier T1,,,,4077.38
+2027-02,IT and call monitoring,Supplier T1,,,,5176.25
+2027-03,IT and call monitoring,Supplier T1,,,,5119.38
+2026-04,IT and call monitoring,Supplier T2,,,,1639.73
+2026-05,IT and call monitoring,Supplier T2,,,,1627.9
+2026-06,IT and call monitoring,Supplier T2,,,,1351.3
+2026-07,IT and call monitoring,Supplier T2,,,,1580.59
+2026-08,IT and call monitoring,Supplier T2,,,,1664.92
+2026-09,IT and call monitoring,Supplier T2,,,,1679.83
+2026-10,IT and call monitoring,Supplier T2,,,,1255.11
+2026-11,IT and call monitoring,Supplier T2,,,,1176.83
+2026-12,IT and call monitoring,Supplier T2,,,,1539.23
+2027-01,IT and call monitoring,Supplier T2,,,,1285.98
+2027-02,IT and call monitoring,Supplier T2,,,,1488.65
+2027-03,IT and call monitoring,Supplier T2,,,,1709.94
+2026-04,Training,Supplier TR1,,,,2286.05
+2026-05,Training,Supplier TR1,,,,2164.47
+2026-06,Training,Supplier TR1,,,,2360.22
+2026-07,Training,Supplier TR1,,,,2553.08
+2026-08,Training,Supplier TR1,,,,2018.74
+2026-09,Training,Supplier TR1,,,,2287.27
+2026-10,Training,Supplier TR1,,,,2050.08
+2026-11,Training,Supplier TR1,,,,2558.08
+2026-12,Training,Supplier TR1,,,,2719.6
+2027-01,Training,Supplier TR1,,,,2283.68
+2027-02,Training,Supplier TR1,,,,2278.75
+2027-03,Training,Supplier TR1,,,,2439.97
+2026-04,Training,Supplier TR2,,,,1183.77
+2026-05,Training,Supplier TR2,,,,1201.06
+2026-06,Training,Supplier TR2,,,,1245.12
+2026-07,Training,Supplier TR2,,,,1313.3
+2026-08,Training,Supplier TR2,,,,1112.41
+2026-09,Training,Supplier TR2,,,,1471.12
+2026-10,Training,Supplier TR2,,,,1378.3
+2026-11,Training,Supplier TR2,,,,1229.0
+2026-12,Training,Supplier TR2,,,,1110.28
+2027-01,Training,Supplier TR2,,,,1476.7
+2027-02,Training,Supplier TR2,,,,1138.89
+2027-03,Training,Supplier TR2,,,,1140.03

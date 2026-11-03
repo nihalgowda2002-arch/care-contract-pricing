@@ -1,0 +1,13 @@
+contract,commissioner,type,rate,hours_per_week,share_15,share_30,share_45,share_60,rural_share
+C01,Council A,Local authority,26.6,1450,0.1,0.48,0.2,0.22,0.1
+C02,Council A,Local authority,27.9,620,0.08,0.42,0.22,0.28,0.45
+C03,Council B,Local authority,27.3,980,0.06,0.44,0.24,0.26,0.15
+C04,Council B,Local authority,30.2,410,0.05,0.4,0.25,0.3,0.55
+C05,Council C,Local authority,28.4,1150,0.05,0.4,0.25,0.3,0.05
+C06,Council C,Local authority,29.8,300,0.04,0.36,0.25,0.35,0.4
+C07,Council D,Local authority,29.1,760,0.04,0.38,0.25,0.33,0.2
+C08,Council D,Local authority,29.9,520,0.03,0.35,0.27,0.35,0.25
+C09,NHS ICB North,NHS continuing healthcare,31.2,640,0.0,0.3,0.3,0.4,0.2
+C10,NHS ICB South,NHS continuing healthcare,32.1,380,0.0,0.25,0.3,0.45,0.35
+C11,Private clients,Self-funded,33.5,540,0.0,0.2,0.3,0.5,0.15
+C12,Private clients,Self-funded,34.8,260,0.0,0.15,0.25,0.6,0.3

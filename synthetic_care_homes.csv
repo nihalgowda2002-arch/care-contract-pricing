@@ -1,0 +1,6 @@
+home,home_type,beds,occupancy,council_share,council_fee,self_fee,fixed_cost_week,variable_cost_resident
+Home 1,Residential,42,0.91,0.7,741.33,1050,19500,255
+Home 2,Residential dementia,55,0.86,0.65,777.81,1150,28000,290
+Home 3,Nursing,64,0.93,0.6,826.04,1295,36000,330
+Home 4,Nursing dementia,48,0.82,0.75,892.45,1350,27500,345
+Home 5,Residential,36,0.95,0.4,741.33,1100,18000,250
